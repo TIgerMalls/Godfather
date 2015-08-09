@@ -1,16 +1,14 @@
-# Godfather
-Your a Puss in Boots
 // ==UserScript==
-// @name           Nothing to see here
-// @author         Me
+// @name           Your a Puss in Boots
+// @author         Godfather
 // @namespace   7c57489f9804a50a941f3d73f3a1ca73
 // @include        http://facebook.mafiawars.zynga.com/mwfb/remote/html_server.php*
 // @grant          GM_setValue
 // @include        https://facebook.mafiawars.zynga.com/mwfb/remote/html_server.php*
-// @include        https://*.mafiawars.zynga.com/mwfb/remote/html_server.php*
-// @include        http://*.mafiawars.zynga.com/mwfb/remote/html_server.php*
-// @include        https://*.mafiawars.zynga.com/mwfb/*
-// @include        http://*.mafiawars.zynga.com/mwfb/*
+// @include        https://*mafiawars.zynga.com/mwfb/remote/html_server.php*
+// @include        http://*mafiawars.zynga.com/mwfb/remote/html_server.php*
+// @include        https://*mafiawars.zynga.com/mwfb/*
+// @include        http://*mafiawars.zynga.com/mwfb/*
 // @include        http://www.facebook.com/dialog/oauth?client_id=10000000001*
 // @include        https://www.facebook.com/dialog/oauth?client_id=10000000001*
 // @grant          GM_xmlhttpRequest
